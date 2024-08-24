@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+<img width="1591" alt="" src="app/assets/images/blockbuster.png">
